@@ -10,7 +10,7 @@ const Cta = () => {
             Ready to start working together?
           </h2>
           <p className='mt-2 font-medium text-white text-opacity-90 lg:text-xl'>
-            Don&apos;t let your visitors see a poor landing.
+            Download my resume or click the message button
           </p>
         </div>
         <div className='flex-shrink-0 w-full text-center lg:w-auto'>
