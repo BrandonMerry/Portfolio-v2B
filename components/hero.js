@@ -9,14 +9,12 @@ const Hero = () => {
         <div className='flex items-center w-full lg:w-1/2'>
           <div className='max-w-2xl mb-8'>
             <h1 className='text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white'>
-              Hello, I'm Brandon!
-            </h1>
-            <h1 className='text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white'>
-              A Front-End Web Developer
+              Front-End Web Developer
             </h1>
             <p className='py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300'>
-              passionate about creating websites with seamless user experience
-              to help businesses grow and better connect with their customers.
+              Hi, I'm Brandon, a Software Engineer passionate about creating
+              websites that help you connect with customers and grow your
+              businesses.
             </p>
 
             <div className='flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row'>
@@ -68,8 +66,8 @@ const Hero = () => {
       <Container>
         <div className='flex flex-col justify-center'>
           <div className='text-xl text-center text-gray-700 dark:text-white'>
-            Technolgies I use to <span className='text-indigo-600'>build</span>{' '}
-            websites
+            Technolgies I use to
+            <span className='text-indigo-600'> build </span> websites
           </div>
 
           <div className='flex flex-wrap justify-center gap-5 mt-10 md:justify-around'>
